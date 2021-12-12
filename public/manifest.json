@@ -1,0 +1,51 @@
+{
+  "short_name": "Pokéblog",
+  "name": "Un blog pokémon más!",
+  "description": "Esta es una página web progresiva",
+  "background_color": "#2B2B2B",
+  "theme_color": "#343a40",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./img/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./img/128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "./img/64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "./img/32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "./img/24.png",
+      "type": "image/png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "./img/16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    }
+    
+  ]
+
+}

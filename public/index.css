@@ -1,0 +1,169 @@
+
+
+#logo{
+    width: 100px;
+    height: 100px;
+}
+
+#logo2{
+    width: 50px;
+    height: 50px;
+    float: right ;
+}
+
+a{
+    margin-left: 20px;
+}
+
+.card{
+    margin-top: 20px;
+  
+ 
+}
+
+
+
+#principal{
+    background-color: black;
+    color: white;
+}
+
+.card-body{
+    background-color: black;
+    color: white;
+    align-items: center;
+    text-align: center;
+}
+
+li.list-group-item{
+    background-color: black;
+    color: white;
+}
+
+
+#purple{
+    background-color: #291b3e;
+    color: aliceblue;
+    
+}
+
+
+
+.clearfix{
+    margin-top: 50px;
+}
+
+#umbreon{
+    width: 300px;
+    height: 300px;
+    
+    
+}
+
+#hada{
+    background-color: #f8c1d4;
+}
+
+#lucha{
+    background-color: #f07400;
+}
+
+#vapo{
+  border-width: 5px;
+  border-style: solid;
+  border-color: #0d6efd;
+  border-radius: 10px;
+  margin-top: 10px;
+  background-color: #8a9bff;
+}
+
+#umbre{
+    margin-top: 10px;
+    border-width: 5px;
+  border-style: solid;
+  border-color: #adb5bd;
+  border-radius: 10px;
+  background-color: #c8cdd3;
+}
+
+#jol{
+    margin-top: 10px;
+    border-width: 5px;
+  border-style: solid;
+  border-color: #ffc107;
+  border-radius: 10px;
+  background-color: #ffdf95;
+}
+
+#bienvenida{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#poke{
+    width: 200px ;
+    height: 200px ;
+}
+
+
+#poke2{
+    width: 200px ;
+    height: 200px ;
+}
+
+
+#Ev{
+text-align: center;
+padding: 10px;
+}
+
+footer{
+    padding: 20px;
+    margin-top: 30px;
+}
+
+#roca{
+    background-color: #795c17;
+    color: white;
+}
+
+#chari{
+    margin-top: 10px;
+    border-width: 5px;
+  border-style: solid;
+  border-color: #dc3545;
+  border-radius: 10px;
+  background-color: #c65b5b;
+ 
+}
+
+#rosa{
+background-color: #d63384;
+}
+
+#mora{
+    background-color: #b14ebb;
+}
+
+#ala{
+    margin-top: 10px;
+    border-width: 5px;
+  border-style: solid;
+  border-color: #d63384;
+  border-radius: 10px;
+  background-color: #ea81ab;
+}
+
+#formulario{
+    padding: 10px;
+    margin-top: 50px;
+}
+
+#cont{
+    margin-top: 50px;
+    text-align: center;
+}
+
+#mas{
+    margin-top: 150px;
+}
